@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Justin Cabral
+- 👀 I’m interested in software engineering and design
+- 🌱 I’m currently learning neueral networks, large language models and the Rust programming langauge.
+- 💞️ I’m looking to collaborate on software projects that are meaningful.
+- 📫 Reach me by email: justin.cabral@dot.gov
+- ⚡ Fun fact: I have a purple belt in jiu jitsu
